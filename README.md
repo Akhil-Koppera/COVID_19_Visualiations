@@ -1,2 +1,2 @@
 # COVID_19_Visualiations
-Kaggle data set of Covid_19 all over the world cases were analysed and visualized using Chlorepleth Map
+Kaggle data set of Covid_19 cases all over the world  were analysed and visualized using Chlorepleth Map
